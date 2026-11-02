@@ -19,6 +19,10 @@ The program will allow users to:
 
 The program will retrieve nutritional information from the USDA API and store meal logs locally.
 
+<img width="732" height="592" alt="diagram" src="https://github.com/user-attachments/assets/3ca5a0c8-df3a-4bac-a711-693ab6ae6d86" />
+
+
+
 ## Tech Stack
 
 - **Language:** Java
@@ -50,6 +54,8 @@ Users will be able to run the Java application, search for foods, log meals, and
 ## Project Documentation
 
 The `docs/` folder will contain the Eisenhower Matrix and System Diagram.
+
+<img width="732" height="592" alt="diagram" src="https://github.com/user-attachments/assets/92f9b669-9cf4-448f-ab28-fffd272006fd" />
 
 
 
