@@ -51,6 +51,8 @@ Users will be able to run the Java application, search for foods, log meals, and
 
 The `docs/` folder will contain the Eisenhower Matrix and System Diagram.
 
+
+
 ## Author
 
 Haricharan Koppuri, https://github.com/hkoppuri/cs-final-project
