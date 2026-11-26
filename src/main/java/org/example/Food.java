@@ -9,7 +9,7 @@ public class Food {
     private double fat;
 
 
-    public Food(String name, int calories, int protein, int carbs, int fat) {
+    public Food(String name, double calories, double protein, double carbs, double fat) {
         this.name = name;
         this.calories = calories;
         this.protein = protein;
